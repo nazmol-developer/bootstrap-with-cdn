@@ -1,0 +1,43 @@
+*{margin:0;
+padding:0;}
+
+
+
+body{font-family: 'Teko', sans-serif;}
+
+img{max-width:100%;
+	display:block;}
+
+.container{background-color:skyblue;}
+
+h1{color:red;}
+
+.gap{background-color: yellow;
+text-align:center;}
+
+
+.line{background-color:red;
+text-align:center;}
+
+.line h1{color:white;}
+
+.multiline{background-color:blue;
+text-align:center;}
+
+.colwidth{background-color:olive;
+text-align:center;}
+
+.variable{background-color:green;
+text-align:center;}
+
+.allbreak{background-color:red;
+text-align:center;}
+
+.mixandmatch{background-color:yellow;
+text-align:center;}
+
+.vartical{background-color:olive;
+text-align:center;}
+
+.wrapping{background-color:red;
+text-align:center;}
